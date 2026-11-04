@@ -6,7 +6,7 @@
 //   hamilton         → that driver's season + career stats
 // Driver ids: see BASE + "drivers.json".
 
-const BASE = "https://USERNAME.github.io/pitboard/api/";
+const BASE = "https://proteinchik-art.github.io/pitboard/api/";
 
 const TEAM_COLORS = {
   "Mercedes": "#27F4D2", "Red Bull": "#3671C6", "Ferrari": "#E8002D",
